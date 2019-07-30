@@ -44,7 +44,7 @@ Why?
 * 查看进程
 `ps -ef | grep -i redis`
 * 停止
-`./src/redis-server shutdown`
+`./src/redis-cli shutdown`
 
 ## Jedis入门
 Jedis 是Redis官方首选的Java客户端安装包
